@@ -1,0 +1,1 @@
+$dt $weather_icon ${temperature}℃

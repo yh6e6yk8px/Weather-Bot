@@ -1,0 +1,531 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "micro",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "北海道/沖縄",
+            "weight": "bold"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "北海道",
+              "text": "City Name Parameter:Hokkaido"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "沖縄県",
+              "text": "City Name Parameter:Okinawa"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "東北",
+            "weight": "bold"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "青森県",
+              "text": "City Name Parameter:Aomori"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "岩手県",
+              "text": "City Name Parameter:Iwate"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "秋田県",
+              "text": "City Name Parameter:Akita"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "宮城県",
+              "text": "City Name Parameter:Miyagi"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "山形県",
+              "text": "City Name Parameter:Yamagata"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "福島県",
+              "text": "City Name Parameter:Fukushima"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "北関東",
+            "weight": "bold"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "茨城県",
+              "text": "City Name Parameter:Ibaraki"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "栃木県",
+              "text": "City Name Parameter:Tochigi"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "群馬県",
+              "text": "City Name Parameter:Gunma"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "山梨県",
+              "text": "City Name Parameter:Yamanashi"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "長野県",
+              "text": "City Name Parameter:Nagano"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "南関東",
+            "weight": "bold"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "埼玉県",
+              "text": "City Name Parameter:Saitama"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "千葉県",
+              "text": "City Name Parameter:Chiba"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "東京都",
+              "text": "City Name Parameter:Tokyo"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "神奈川県",
+              "text": "City Name Parameter:Kanagawa"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "東海",
+            "weight": "bold"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "静岡県",
+              "text": "City Name Parameter:Shizuoka"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "愛知県",
+              "text": "City Name Parameter:Aichi"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "岐阜県",
+              "text": "City Name Parameter:Gifu"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "三重県",
+              "text": "City Name Parameter:Mie"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "北陸",
+            "weight": "bold"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "新潟県",
+              "text": "City Name Parameter:Niigata"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "富山県",
+              "text": "City Name Parameter:Toyama"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "石川県",
+              "text": "City Name Parameter:Ishikawa"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "福井県",
+              "text": "City Name Parameter:Fukui"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "近畿",
+            "weight": "bold"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "滋賀県",
+              "text": "City Name Parameter:Shiga"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "京都府",
+              "text": "City Name Parameter:Kyoto"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "大阪府",
+              "text": "City Name Parameter:Osaka"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "兵庫県",
+              "text": "City Name Parameter:Hyogo"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "奈良県",
+              "text": "City Name Parameter:Nara"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "和歌山県",
+              "text": "City Name Parameter:Wakayama"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "中国",
+            "weight": "bold"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "鳥取県",
+              "text": "City Name Parameter:Tottori"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "島根県",
+              "text": "City Name Parameter:Shimane"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "岡山県",
+              "text": "City Name Parameter:Okayama"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "広島県",
+              "text": "City Name Parameter:Hiroshima"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "山口県",
+              "text": "City Name Parameter:Yamaguchi"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "四国",
+            "weight": "bold"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "徳島県",
+              "text": "City Name Parameter:Tokushima"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "香川県",
+              "text": "City Name Parameter:Kagawa"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "愛媛県",
+              "text": "City Name Parameter:Ehime"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "高知県",
+              "text": "City Name Parameter:Kochi"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "九州",
+            "weight": "bold"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "福岡県",
+              "text": "City Name Parameter:Fukuoka"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "佐賀県",
+              "text": "City Name Parameter:Saga"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "長崎県",
+              "text": "City Name Parameter:Nagasaki"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "熊本県",
+              "text": "City Name Parameter:Kumamoto"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "大分県",
+              "text": "City Name Parameter:Oita"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "宮崎県",
+              "text": "City Name Parameter:Miyazaki"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "鹿児島県",
+              "text": "City Name Parameter:Kagoshima"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

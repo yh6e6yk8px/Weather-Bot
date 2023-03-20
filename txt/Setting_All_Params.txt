@@ -1,0 +1,5 @@
+【現在の設定値】
+緯度：$latitude
+経度：$longitude
+都市名：$city_name
+予報地域特定方法：$wf_param

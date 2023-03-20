@@ -1,0 +1,5 @@
+天候：$description $icon
+気温：${temp}℃
+体感温度：${temp_feels_like}℃
+湿度：${humidity}%
+風速：${speed}m/s
